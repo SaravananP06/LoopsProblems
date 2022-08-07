@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 1. First we find remainder of the given number
  * 2. Multiply the variable reverse by 10 and add the remainder into it.
  * 3. Divide the number by 10.
- * 4. Repeat the above steps until hte number becomes zero
+ * 4. Repeat the above steps until the number becomes zero
  */
 
 public class ReverseNumber {
