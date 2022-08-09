@@ -34,9 +34,7 @@ public class ArithmeticOperation {
 		int sol4 = a * b + c;
 		System.out.println("a * b + c = " +sol4);
 		
-		/*
-		 * Taking solution values in list
-		 */
+		
 		int numbers[] = {sol1, sol2, sol3, sol4};
 		
 		/*
